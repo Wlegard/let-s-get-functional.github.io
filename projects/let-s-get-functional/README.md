@@ -16,7 +16,7 @@ An exercise in problem solving in the functional idiom.
  - Open `index.js`
  - Update line 6 of `index.js` to reference your `lodown` library
  - It should look something like this:
-
+npm start --prefix ./let-s-get-functional.github.io/projects/let-s-get-functional
 ```
 const _ = require('lodown-oliviasaborush');
 ```
